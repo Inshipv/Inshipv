@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vishalsingh9187@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences: Through My Project.
 
 - ⚡ Fun fact **I am funny When i feel my Comfort Zone**
 
