@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Ed.Tech Website**
 
-- 🌱 I’m currently learning **Flask, React**
+- 🌱 I’m currently learning **Flask, ML**
 
-- 💬 Ask me about **Python, JavaScript,  Flask**
+- 💬 Ask me about **Python, JavaScript,  Flask and ML**
 
 - 📫 How to reach me **vishalsingh9187@gmail.com**
 
